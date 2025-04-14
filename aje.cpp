@@ -1,10 +1,12 @@
+#include <windows.h>
 #include <iostream>
 using namespace std;
 static int cont, turn;
 int turno();
 
 int main(){
-turno();
+    turno();
+	Beep(350,35); //sonido ficha aj
 return 0;
 }
 
