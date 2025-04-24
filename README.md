@@ -19,4 +19,5 @@ entre las 17000 líneas de códigos de prueba.
 Comentario: Hoy me vale el consejo leído en cada manual de C++ y de todos 
 los lenguajes: Usen comentarios. Tal vez deban releer el código cuando ya
 no recuerden la idea que tenían al componerlo.
+
  
